@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ericwhite/Projects/Demo/cmake_demo/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/ericwhite/Projects/Demo/cmake_demo/build -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /Users/ericwhite/Projects/Demo/cmake_demo/Step1/tutorial.cxx",
+  "file": "/Users/ericwhite/Projects/Demo/cmake_demo/Step1/tutorial.cxx"
+}
+]
